@@ -8,7 +8,7 @@ Released for free under the Creative Commons Attribution License
 body {
 	margin: 0;
 	padding: 0;
-	background: #C5DA99 url(images/img01.png) repeat;
+	background: #C5DA99 url(img01.png) repeat;
 	font-family: 'Abel', sans-serif;
 	font-size: 12pt;
 	color: #787878;
@@ -66,7 +66,7 @@ a:hover {
 	overflow: hidden;
 	height: 620px;
 	padding: 30px 0px 0px 0px;
-	background: url(images/img07.png) repeat;
+	background: url(img07.png) repeat;
 }
 
 #header {
@@ -74,7 +74,7 @@ a:hover {
 	height: 100px;
 	margin: 0 auto;
 	padding: 0px 50px;
-	background: #415C13 url(images/img02.png) repeat;
+	background: #415C13 url(img02.png) repeat;
 }
 
 /* Logo */
@@ -283,7 +283,7 @@ a:hover {
 	width: 100px;
 	margin-right: 10px;
 	padding: 5px 0px;
-	background: url(images/img02.png) no-repeat left top;
+	background: url(img02.png) no-repeat left top;
 	border-radius: 10px 10px 0px 0px;
 	text-align: center;
 	color: #FFFFFF;
@@ -294,7 +294,7 @@ a:hover {
 	float: left;
 	width: 100px;
 	padding: 5px 0px;
-	background: url(images/img02.png) no-repeat left top;
+	background: url(img02.png) no-repeat left top;
 	border-radius: 10px 10px 0px 0px;
 	text-align: center;
 	color: #FFFFFF;
@@ -487,7 +487,7 @@ a:hover {
 	width: 252px;
 	height: 38px;
 	padding: 15px 0px 0px 0px;
-	background: url(images/img07.jpg) no-repeat left top;
+	background: url(img07.jpg) no-repeat left top;
 	letter-spacing: -2px;
 	text-align: center;
 	text-transform: lowercase;
